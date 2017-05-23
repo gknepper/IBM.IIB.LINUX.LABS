@@ -1,5 +1,5 @@
 # IBM.IIB.LINUX.LABS
-My scripts to create the VM (ubuntu mate 17.04) to IBM IIB Self-study labs
+Scripts to create the VM (ubuntu mate 17.04) to IBM IIB Self-study labs
 
 ## Links to IBM IIB self study labs:
 * https://developer.ibm.com/integration/docs/ibm-integration-bus/self-study-labs/
@@ -16,12 +16,12 @@ My scripts to create the VM (ubuntu mate 17.04) to IBM IIB Self-study labs
 > https://www-01.ibm.com/marketing/iwm/iwm/web/pick.do?source=swg-wmbfd
 
 ## Creating VM
-I used the ubuntu-mate version 17.04 because works beautifully with vmware. It's not necessary install vmware tools. this version comes with open-vmware-tools native and auto screen autofit and shared folders works too.
+I used the ubuntu-mate version 17.04 because works beautifully with vmware. It may works in every ubuntu version/flavor.
 > https://ubuntu-mate.org/download/
 
 ## Step One - Install prereqs (OPTIONAL) 
 > inicialSetup.sh
-install firefox git vim 
+* install firefox git vim 
 
 ## Step Two - DB2
 > installDB2.sh
